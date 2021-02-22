@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ghi chú</string>
+    <string name="title1">Thông báo</string>
+    <string name="title2">Thông tin ứng dụng</string>
+    <string name="message1">Bạn có muốn lưu ghi chú không</string>
+    <string name="message2">Lưu thành công</string>
+    <string name="message3">Xóa thành công</string>
+    <string name="message4">Không có ghi chú nào cả</string>
+    <string name="message5">Dữ liệu ghi chú sẽ bị xóa toàn bộ.\nBạn có chắc chắn không ?</string>
+    <string name="message6">Ngày sản xuất : 1/1/2021\nBản cập nhật : N.1.0</string>
+    <string name="message7">Bạn có muốn xóa ghi chú này không</string>
+</resources>

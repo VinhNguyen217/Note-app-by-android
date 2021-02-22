@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:title="Tìm kiếm"
+        android:icon="@drawable/search"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"/>
+    <item
+        android:id="@+id/add_note"
+        android:title="Thêm ghi chú"/>
+    <item
+        android:id="@+id/clear"
+        android:title="Xóa tất cả"/>
+    <item
+        android:id="@+id/info"
+        android:title="Thông tin ứng dụng"/>
+</menu>
